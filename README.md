@@ -80,10 +80,6 @@ streamlit run src/app.py
 
 ```text
 Project/
-├── README.md                          # Quick start instructions & overview
-├── Documentation.pdf                  # System architecture, ML specs, & UI docs
-├── Presentation.pdf                   # Problem statement & solution slide deck
-├── Links_And_Resources.docx           # Public GitHub & Solution Video links
 └── src/
     ├── app.py                         # Streamlit Dashboard UI
     ├── agent/
